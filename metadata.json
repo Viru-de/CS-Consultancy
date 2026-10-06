@@ -1,0 +1,6 @@
+{
+  "name": "CS Consultancy & CSC Recruitment Portal",
+  "description": "CS Consultancy - Job Placement, CSC Partner Network & Manpower Recruitment Services in Bhilai, Chhattisgarh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
